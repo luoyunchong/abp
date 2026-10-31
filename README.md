@@ -1,3 +1,5 @@
+[English](README.en.md) | **简体中文**
+
 # ABP
 
 [![Build Status](http://vjenkins.dynu.net:5480/job/abp/badge/icon)](http://ci.volosoft.com:5480/blue/organizations/jenkins/abp/activity)
